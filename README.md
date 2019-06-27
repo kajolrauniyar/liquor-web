@@ -1,4 +1,4 @@
-# vue-shop
+# Preface
 A ecommerce web interface built with Vue JS and Firebase.
 
 
